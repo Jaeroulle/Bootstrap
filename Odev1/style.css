@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    background-color: rgb(94, 116, 108);
+    padding: 0.5rem;
+    text-align: center;
+    align-items: center;
+    
+}
+
+header a {
+    color: rgb(197, 189, 189);
+    padding: 1rem;
+    list-style-type: none;
+}
+
+header a:hover {
+    color: white;
+}
+
+header h1 {
+    color: rgb(204, 69, 69);
+}
+
+.ürünlerimiz {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1rem;
+}
+
+h2 {
+    font-size: 4rem;
+    color: rgb(201, 67, 67);
+}
+
+.merhaba {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 8rem;
+    padding-bottom: 1rem;
+}
+
+section {
+    background-color:  #E9ECEF ;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.price {
+    color: white;
+    font-size: 0.8rem;
+    width: 4.9rem;
+    border-radius: 0.6rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 0.15rem;
+    margin-left: 7.8rem;
+    
+}
+
+.conetiner {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.card {
+    display: flex;
+    width: 21rem;
+    height: 23rem;
+    margin-bottom: 1rem;
+}
+
+article {
+    
+
+}
+
+.B {
+    display: flex;
+    margin: 0 21rem;
+}
+
+body {
+    background-color: #E9ECEF;
+}
+
+div ul {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+}
